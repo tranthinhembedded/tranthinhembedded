@@ -27,3 +27,8 @@ Embedded Software Engineering
 <a href="http://www.github.com/tranthinhembedded"><img src="https://github-readme-stats.vercel.app/api?username=tranthinhembedded&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tranthinhembedded's GitHub stats" /></a>
 
 ![snake gif](https://github.com/tranthinhembedded/tranthinhembedded/blob/output/github-snake-dark.svg)
+
+### Certificates
+
+![YSC-2024](images/Certificates/YSC2024_1.jpg)
+![YSC-2024](images/Certificates/YSC2024_2.jpg)
