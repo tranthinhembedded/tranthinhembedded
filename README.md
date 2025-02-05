@@ -1,4 +1,5 @@
-Hi ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI5ZmI4amcwc3BjbmU5enZ5Y3Y5aDNob3FjOXZ0Zzk0YW9vdXowbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)My name is Duc Thinh
+Hi <img src="images/Gif/hello.gif" alt="Mô tả hình ảnh" width="90">
+My name is Duc Thinh
 =================================================================================================================================
 
 Embedded Software Engineering
