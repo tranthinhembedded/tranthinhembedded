@@ -1,4 +1,5 @@
-<img src="images/Gif/Dev.gif" alt="Mô tả hình ảnh" width="400">
+<img src="images/Gif/Dev.gif" alt="Mô tả hình ảnh" width="600" style="display: block; margin: auto;">
+
 
 
 Hi <img src="images/Gif/hello101.gif" alt="Mô tả hình ảnh" width="90">
