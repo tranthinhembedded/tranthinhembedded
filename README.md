@@ -31,6 +31,6 @@ Embedded Software Engineering
 ### Certificates
 
 <p align="left">
-  <img src="images/Certificates/YSC2024_1.jpg" alt="YSC2024" width="200"/>
+  <img src="images/Certificates/YSC2024_1.jpg" alt="YSC2024" width="200" height="147"/>
   <img src="images/Certificates/YSC2024_2.jpg" alt="YSC2024" width="200"/>
 </p>
