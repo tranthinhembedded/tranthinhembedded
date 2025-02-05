@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duc Thinh
+Hi ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI5ZmI4amcwc3BjbmU5enZ5Y3Y5aDNob3FjOXZ0Zzk0YW9vdXowbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)My name is Duc Thinh
 =================================================================================================================================
 
 Embedded Software Engineering
@@ -34,3 +34,5 @@ Embedded Software Engineering
   <img src="images/Certificates/YSC2024_1.jpg" alt="YSC2024" width="200" height="150"/>
   <img src="images/Certificates/YSC2024_2.jpg" alt="YSC2024" width="200"/>
 </p>
+
+
