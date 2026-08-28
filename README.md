@@ -163,10 +163,6 @@
 </p>
 
 ###
-
-<div align="center">
-  <i>Build close to the hardware. Think at the system level.</i>
-</div>
 <picture data-importer="pacman">
   <source
     media="(prefers-color-scheme: dark)"
@@ -181,3 +177,6 @@
     src="https://raw.githubusercontent.com/tranthinhembedded/tranthinhembedded/pacman-output/pacman-contribution-graph.svg"
   />
 </picture>
+<div align="center">
+  <i>Build close to the hardware. Think at the system level.</i>
+</div>
