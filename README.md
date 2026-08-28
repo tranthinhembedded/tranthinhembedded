@@ -43,20 +43,21 @@
 <p align="left">
   I'm an Embedded Software Engineer based in Ho Chi Minh City, Vietnam.
   <br><br>
-  - 🔭 I work on STM32 firmware, real-time control systems, sensor integration and robotics applications.
+   💻 I develop embedded software for microcontroller-based and real-time systems.
   <br>
-  - 🚁 I'm currently developing modular STM32F411 flight-controller firmware with PID control, sensor fusion, optical flow and UART DMA telemetry.
+   ⚙️ I work with firmware development, peripheral drivers, communication protocols, sensor interfaces and hardware–software integration.
   <br>
-  - 📚 I'm currently learning Embedded Linux, device drivers, secure boot and Embedded Cybersecurity.
+   🧠 I'm interested in Embedded Systems, RTOS, Automotive Software, Robotics, IoT and Embedded Linux.
   <br>
-  - 🔧 I enjoy working close to the hardware—from low-level peripheral drivers to complete embedded systems.
+   🔧 I enjoy working close to the hardware, from low-level drivers and system debugging to reliable and maintainable embedded applications.
   <br>
-  - 🤝 I'm open to collaborating on Embedded Firmware, Automotive, Robotics, IoT and Edge AI projects.
+   📚 I'm continuously improving my knowledge in embedded software architecture, device drivers, networking, system security and modern embedded development practices.
   <br>
-  - 📫 Contact me at <a href="mailto:thinhhd2002t@gmail.com">thinhhd2002t@gmail.com</a>.
+   🤝 I'm open to collaborating on Embedded Firmware, Automotive, Robotics, IoT and Edge Computing projects.
+  <br>
+   📫 Contact me at <a href="mailto:thinhhd2002t@gmail.com">thinhhd2002t@gmail.com</a>.
 </p>
 
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
