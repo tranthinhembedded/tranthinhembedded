@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">Embedded Firmware Engineer</h3>
+<h3 align="center">Embedded Software Engineer</h3>
 
 <p align="center">
   STM32 • C/C++ • Real-Time Control • Sensor Integration • Embedded Linux
