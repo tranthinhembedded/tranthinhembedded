@@ -41,7 +41,7 @@
 ###
 
 <p align="left">
-  I'm an Embedded Firmware Engineer based in Ho Chi Minh City, Vietnam.
+  I'm an Embedded Software Engineer based in Ho Chi Minh City, Vietnam.
   <br><br>
   - 🔭 I work on STM32 firmware, real-time control systems, sensor integration and robotics applications.
   <br>
